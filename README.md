@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# SQL alchemy
 
 
 ## Part 1: Analyze and Explore the Climate Data
